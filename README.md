@@ -34,7 +34,7 @@ AWS S3, IAM, Bucket Policy, Block Public Access
 ## Screenshots
 
 ### Before - Public Bucket
-![Before](./before.png)
+![Before](./before.jpg)
 
 ### After - Secure Bucket
 ![After](./after.png)
