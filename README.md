@@ -31,4 +31,10 @@ AWS S3, IAM, Bucket Policy, Block Public Access
 
 ---
 **Author:** Shraddha Malvi | Aspiring Cloud Security / SOC Analyst
+## Screenshots
 
+### Before - Public Bucket
+![Before](./before.png)
+
+### After - Secure Bucket
+![After](./after.png)
